@@ -2,10 +2,10 @@
 I am Yuyu, I'm a **front end developer** from Taiwan.
 
 ## My values
-  🎊 Trying new things to find inspiration or connection.
-  🙈 Beginner's mindset and curiosity.
-  👯 Care about sharing and teamwork.
-  👀 Often think about the functions played by different roles.
+  🎊 Trying new things to find inspiration or connection.\
+  🙈 Beginner's mindset and curiosity.\
+  👯 Care about sharing and teamwork.\
+  👀 Often think about the functions played by different roles.\
   
 ## Get in touch 🌱
   In holidays, I love to spend time in nature. I have a blog records experiences that refresh my mind.
