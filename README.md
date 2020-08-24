@@ -19,7 +19,8 @@ I am Yuyu, I'm a **front end developer** from Taiwan. I majored Biomedical Scien
   🌱 Personal site: https://pedantic-bhaskara-fa0a7e.netlify.app/
 
 ## Others
-  🤔 LeetCode Note: https://yuyu811029.gitbook.io/leetcode-note/
+  - LeetCode Note: https://yuyu811029.gitbook.io/leetcode-note/
+  - HackerRank Note: https://yuyu811029.gitbook.io/hackerrank-note/
 
 <!--
 **yuyuchi/yuyuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
