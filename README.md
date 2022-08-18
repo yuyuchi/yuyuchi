@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Yuyu, I'm a **front end developer** from Taiwan. I majored Biomedical Sciences during my uni life, when I started a intern program at a pharmaceutical company, I spent lots of time using computer and then discovered that I hate doing repeatedly work. So, I started learning basic software language online by myself and found out its posibility is just what I want! :D
+I am Yuyu, I'm a **front-end engineer** from Taiwan.
 
 ## My values
   🎊 Trying new things to find inspiration or connection.
