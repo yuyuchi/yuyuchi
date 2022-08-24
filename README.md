@@ -14,7 +14,7 @@ I am Yuyu, I'm a **front-end engineer** from Taiwan.
   
 ## Get in touch
   In holidays, I love to spend time in nature.\
-  I have a blog records experiences that refresh my mind. It's about travel, volunteering, zerowaste, and some botanical illustrations.
+  I have a blog records experiences that refresh my mind. It's about travel, volunteering, zerowaste, and some of my botanical illustrations.
   
   🌱 Personal site: https://pedantic-bhaskara-fa0a7e.netlify.app/
 
