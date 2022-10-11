@@ -12,6 +12,13 @@ I am Yuyu, I'm a **front-end engineer** from Taiwan.
   
   🎯 It's important that things can be clearly and simply expressed.
   
+## My Github Stats  
+<br/>
+   <a href="https://github.com/yuyuchi/github-readme-stats"><img alt="Yuyu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuyuchi&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yuyuchi/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuchi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ## Get in touch
   In holidays, I love to spend time in nature.\
   I have a blog records experiences that refresh my mind. It's about travel, volunteering, zerowaste, and some of my botanical illustrations.
